@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "command": "send",
+    "roleID": "",
+    "ownerID": [
+      ""
+    ],
+  
+    "port": 3000
+  }
